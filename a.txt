@@ -1,2 +1,3 @@
 Teste
 Entendendo o HEAD no Git
+Esta linha foi modificada no ramo Master
